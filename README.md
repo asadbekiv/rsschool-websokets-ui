@@ -14,13 +14,7 @@
 
 `npm run start:dev`
 
-- App served @ `http://localhost:8181` with nodemon
-
-**Production**
-
-`npm run start`
-
-- App served @ `http://localhost:8181` without nodemon
+- App served @ `http://localhost:8181` with ts-node-dev
 
 ---
 
